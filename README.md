@@ -1,2 +1,2 @@
 # projetos-bi
-Dashoboards de Power BI
+Dashboards de Power BI
