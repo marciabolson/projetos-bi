@@ -1,2 +1,2 @@
 # projetos-bi
-Dashboards de Power BI
+Dashboards de PBI realizados em cursos diversos.
